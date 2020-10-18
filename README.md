@@ -1,0 +1,2 @@
+# ComeSoon
+Come soon tamplate.
